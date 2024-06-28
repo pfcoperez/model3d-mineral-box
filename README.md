@@ -29,6 +29,6 @@ These are some examples of a 3D print:
 - No infill density constraints as the structure doesn't require infill.
 - It is recommended to be printed with the upper side facing down, adding supports to hold the legs.
 
-## Fint it at Thingiverse
+## Find it at Thingiverse
 
 https://www.thingiverse.com/thing:6678415
