@@ -3,6 +3,8 @@ h=10;
 r=1;
 dFactor=4;
 
+$fn=25;
+
 cube([l, l, 1]);
 
 translate([l/2, l/4, 0]) {
