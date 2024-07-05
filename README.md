@@ -22,6 +22,12 @@ These are some examples of a 3D print:
 
 ![C](https://github.com/pfcoperez/model3d-mineral-box/assets/273379/202932f4-29d3-436e-b3ff-456c27cf783a)
 
+There is a second model [cellBase.scad](https://github.com/pfcoperez/model3d-mineral-box/blob/main/cellBase.scad) for a stand to hold minerals not glued to cardboard boxes:
+
+![withStands](https://github.com/pfcoperez/model3d-mineral-box/assets/273379/5ecfca6c-38f5-41f2-bd49-a0235761e6ea)
+![stands](https://github.com/pfcoperez/model3d-mineral-box/assets/273379/f46aad35-0e1d-4e43-9ee2-7e8206b0fd54)
+
+
 ## 3D Printing
 
 ![image](https://github.com/pfcoperez/model3d-mineral-box/assets/273379/89d620bf-4e9e-449b-b7c6-bebe1291b57f)
